@@ -6,5 +6,7 @@ public class C01_HelloWorld {
         System.out.println("Hello World");
 
         System.out.println("Merhaba Github");
+        
+        //burada şuna dikkat et
     }
 }

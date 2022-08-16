@@ -7,6 +7,8 @@ public class C01_HelloWorld {
 
         System.out.println("Merhaba Github");
         System.out.println("hello git 3. deneme");
+        System.out.println("hello git 5. deneme");
+        
         
         //burada şuna dikkat et
     }
